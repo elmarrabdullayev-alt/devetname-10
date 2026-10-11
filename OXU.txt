@@ -1,0 +1,26 @@
+MURAD & LEYLA — ONLAYN DƏVƏTNAMƏ
+================================
+
+index.html
+  Saytın özü. Bütün şəkillər və giriş videosu bu faylın içindədir,
+  ona görə yalnız bu bir faylı yükləmək kifayətdir.
+
+  Kompüterdə baxmaq: faylı iki dəfə klikləyin, brauzerdə açılacaq.
+
+  İnternetdə yerləşdirmək (pulsuz variantlar):
+   - Netlify Drop (app.netlify.com/drop): qovluğu səhifəyə sürükləyin.
+   - GitHub Pages: faylı repoya yükləyin, Settings → Pages bölməsini açın.
+   - Öz hostinqiniz: index.html faylını public_html qovluğuna yükləyin.
+
+menbe-fayllar/
+  Saytda istifadə olunan orijinal fayllar (dəyişiklik etmək üçün):
+   - arxa-fon.png              kartın və səhifənin fonu
+   - giris-video.webm          giriş videosu (orijinal)
+   - giris-video-iphone.mp4    köhnə iPhone-lar üçün videonun surəti
+   - srift-numunesi.jpg        şriftlər üçün nümunə
+
+Şriftlər: Pinyon Script (adlar) və EB Garamond (qalan mətn), Google Fonts.
+İnternet olmayanda brauzer bunların əvəzinə öz standart şriftlərini göstərir.
+
+DİQQƏT: saytdakı adlar, tarix, məkan və telefon nömrəsi uydurmadır.
+Qonaqlara göndərməzdən əvvəl real məlumatlarla əvəz edin.
